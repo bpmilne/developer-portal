@@ -1,4 +1,4 @@
-# dwolla-devportal
+# Dwolla Developer Portal for our white-label bank transfer API (v2) and applications built for Dwolla Members (v1)
 
 Dwolla's next-generation developer portal.  This is a jekyll-based site that compiles down to a set of static assets which live on GitHub Pages. Dwolla's developer portal can be seen here - https://developers.dwolla.com/
 
